@@ -20,7 +20,6 @@ Lastly, fill in your form and hit Submit. Check your destination folder and you'
 
 ![][96] This extension is also available for DNN Api Endpoint and Sharp Scheduler. 
 
-** [1]: /a/dnnsharp.com/action-form-v2/_/rsrc/1380524206563/config/customLogo.gif?revision=3
 
 [91]: https://sites.google.com/a/dnnsharp.com/action-form-v2/_/rsrc/1426773527546/extensions/excel/both%20buttons.png
 [92]: https://sites.google.com/a/dnnsharp.com/action-form-v2/_/rsrc/1426773670625/extensions/excel/serialize%20to%20excel.png
