@@ -18,7 +18,9 @@ Lastly, fill in your form and hit Submit. Check your destination folder and you'
 
 ![][95] Here is one example of such an exported grid: 
 
-![][96] This extension is also available for DNN Api Endpoint and Sharp Scheduler. | | [Action Form Homepage][5] | [Download Action Form Trial][3] | [Changelog][97] | [Support Forum][98] | [Request a Video Tutorial][99] [Sign in][100]|[Recent Site Activity][101]|[Report Abuse][102]|[Print Page][103]|Powered By [**Google Sites][104]** [1]: /a/dnnsharp.com/action-form-v2/_/rsrc/1380524206563/config/customLogo.gif?revision=3
+![][96] This extension is also available for DNN Api Endpoint and Sharp Scheduler. 
+
+** [1]: /a/dnnsharp.com/action-form-v2/_/rsrc/1380524206563/config/customLogo.gif?revision=3
 
 [91]: https://sites.google.com/a/dnnsharp.com/action-form-v2/_/rsrc/1426773527546/extensions/excel/both%20buttons.png
 [92]: https://sites.google.com/a/dnnsharp.com/action-form-v2/_/rsrc/1426773670625/extensions/excel/serialize%20to%20excel.png
