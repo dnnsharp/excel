@@ -10,7 +10,7 @@ The Excel addon allows you to export your data in Excel format. It comes in 2 fl
 
 ![][91] 
 
-Integrat![](Excel from entity list.bmp)ion requirements:
+
 
 * [Action Form 03.08.16](http://www.dnnsharp.com/products/download?p=AFORM&v=03.08.16)
 * [Action Grid 03.00.05](http://www.dnnsharp.com/products/download?p=AGRID&v=03.00.05)
