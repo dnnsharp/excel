@@ -18,9 +18,11 @@
 
 **Handle duplicates** - you can choose how to handle when you already have a file with the same name. (Optional, default value is "Rename")
 
-**File password** -
+**File password** - will add a password to the whole file, this way other users will not be able to see the content of the file.
 
 **Worksheet password** -
+
+With the password fields you can add passwords to your excel file. The **File password** field  While with the **Worksheet Password** field you will add a password to the excel worksheet, now users are able to see the content of the file but are not able to edit it.
 
 This extension is also available for DNN Api Endpoint and Sharp Scheduler. 
 
