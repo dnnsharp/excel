@@ -22,9 +22,29 @@ Here you can define what text will be serialized.For example, the [FirstName] an
 
 You also have the option to **Use excel formulas**. With this option checked all formulas found will be applied.
 
-With the password fields you can add passwords to your excel file. The **File password** field will add a password to the whole file, this way other users will not be able to see the content of the file. While with the **Worksheet Password** field you will add a password to the excel worksheet, now users are able to see the content of the file but are not able to edit it.
+**File password**
 
-Then, you must select the **Folder** to which the file is uploaded. 
+Will add a password to the whole file, this way other users will not be able to see the content of the file. (Optional)
+
+**Worksheet password**
+
+Will add a password to the excel worksheet, now users are able to see the content of the file but are not able to edit it. (Optional)
+
+**Folder**
+
+Select the destination where the file will be stored.
+
+**Store Absolute URL**
+
+Provide a token name where to Store Absolute URL. (Optional)
+
+**Store Relative URL**
+
+Provide a token name where to Store Relative URL. (Optional)
+
+**Store Physical Path**
+
+Provide a token name where to Store Physical Path. (Optional)
 
 Lastly, fill in your form and hit Submit. Check your destination folder and you'll see the newly-created XLS file there. Open it and it will look like this: 
 
