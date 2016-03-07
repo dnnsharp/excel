@@ -12,9 +12,9 @@ Accepts expressions. (Optional, default value is ",")
 ![][106]
 
 In the Handle duplicates field, you can how to handle when you already have a file with the same name. (Optional, default value is "Rename")
-![][106]
+![][107]
 
-For example, the [FirstName] and [LastName] fields. Keep in mind that these fields must exist within the form and you need to add their ID, not field name.  
+In the Text field, you can define what text will be serialized.For example, the [FirstName] and [LastName] fields. Keep in mind that these fields must exist within the form and you need to add their ID, not field name.  
 ![][92] 
 
 Then, you must select the folder to which the file is uploaded. 
@@ -50,3 +50,4 @@ This extension is also available for DNN Api Endpoint and Sharp Scheduler.
 [104]: http://sites.google.com
 [105]: https://c254fe5a-a-f1e965b1-s-sites.googlegroups.com/a/dnnsharp.com/action-form-v2/FillePattern.bmp 
 [106]: https://c254fe5a-a-f1e965b1-s-sites.googlegroups.com/a/dnnsharp.com/action-form-v2/Field%20Separator.bmp
+[107]: https://c254fe5a-a-f1e965b1-s-sites.googlegroups.com/a/dnnsharp.com/action-form-v2/Handle%20Duplicates.bmp
