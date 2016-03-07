@@ -1,4 +1,4 @@
-MailChimp Integration
+Excel Integration
 =======
 
 
