@@ -14,7 +14,7 @@
 
 **Criteria** - add a criteria that fielters the data. (Optional)
 
-**Pattern** - 
+**Pattern** - you can provide a pattern for the excel file. (Optional)
 
 This extension is also available for DNN Api Endpoint and Sharp Scheduler. 
 
