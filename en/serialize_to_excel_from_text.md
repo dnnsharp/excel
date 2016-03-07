@@ -9,7 +9,7 @@ In the **Pattern** field, you can provide a pattern for the excel file. (Optiona
 In the **Field Separator** field, you can choose your the field separator from your text.
 Accepts expressions. (Optional, default value is ",")
 
-In the **Handle duplicates** field, you can how to handle when you already have a file with the same name. (Optional, default value is "Rename")
+In the **Handle duplicates** field, you can choose how to handle when you already have a file with the same name. (Optional, default value is "Rename")
 
 In the **Text field**, you can define what text will be serialized.For example, the [FirstName] and [LastName] fields. Keep in mind that these fields must exist within the form and you need to add their ID, not field name.  
 
