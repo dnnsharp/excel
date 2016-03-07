@@ -20,7 +20,12 @@ You can choose how to handle when you already have a file with the same name. (O
 
 Here you can define what text will be serialized.For example, the [FirstName] and [LastName] fields. Keep in mind that these fields must exist within the form and you need to add their ID, not field name.  
 
-You also have the option to **Use excel formulas**. With this option checked all formulas found will be applied.
+**Use excel formulas**
+
+With this option checked all formulas found will be applied. When a cell has a value that starts with = it will write it as an excel formula.
+Example: =Sum(A1,A2)
+To escape the = add a ' in front of it.
+Example: '=Sum(A1,A2) this will be considered a normal string.
 
 **File password**
 
