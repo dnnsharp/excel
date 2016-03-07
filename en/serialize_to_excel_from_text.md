@@ -5,27 +5,24 @@ In **Action Form**, you have the ability to save your data to reports and downlo
 However, there is also the option to export the inputted data to an XLS file.  Setting it up is pretty simple - on an existing or new button add as action Serialize > Serialize to Excel from Text. Inside the handler you have the following settings:
 
 In the Pattern field, you can provide a pattern for the excel file. (Optional)
+![][105]
 
+In the Field Separator field, you can choose your the field separator from your text. (Optional, default value is ",")
+![][106]
 
-
-In the Text field, you can define what text will be serialized. For example, the [FirstName] and [LastName] fields. Keep in mind that these fields must exist within the form and you need to add their ID, not field name.  
-
+In the me] and [LastName] fields. Keep in mind that these fields must exist within the form and you need to add their ID, not field name.  
 ![][92] 
 
 Then, you must select the folder to which the file is uploaded. 
-
 ![][93] 
 
 Lastly, fill in your form and hit Submit. Check your destination folder and you'll see the newly-created XLS file there. Open it and it will look like this: 
-
 ![][94] 
 
 **Action Grid** too offers the possibility to serialize to CSV, and now with the Excel addon you can serialize from entity list - basically some or all the entries of a grid of your choice. Similar to Serialize from Text, add a grid button with Action Serialize > Serialize from Entity List. You have the possibility to choose which entities to export to XLS, and even to include all fields at once by ticking one single button. 
-
 ![][95] 
 
 Here is one example of such an exported grid: 
-
 ![][96] 
 
 This extension is also available for DNN Api Endpoint and Sharp Scheduler. 
@@ -48,3 +45,4 @@ This extension is also available for DNN Api Endpoint and Sharp Scheduler.
 [103]: javascript:;
 [104]: http://sites.google.com
 [105]: https://c254fe5a-a-f1e965b1-s-sites.googlegroups.com/a/dnnsharp.com/action-form-v2/FillePattern.bmp 
+[106]: https://c254fe5a-a-f1e965b1-s-sites.googlegroups.com/a/dnnsharp.com/action-form-v2/Field%20Separator.bmp
