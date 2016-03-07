@@ -17,6 +17,9 @@ In the Handle duplicates field, you can how to handle when you already have a fi
 In the Text field, you can define what text will be serialized.For example, the [FirstName] and [LastName] fields. Keep in mind that these fields must exist within the form and you need to add their ID, not field name.  
 ![][92] 
 
+You also have the option to use excel formulas. With this option checked all formulas found will be applied.
+![][108]
+
 Then, you must select the folder to which the file is uploaded. 
 ![][93] 
 
@@ -51,3 +54,4 @@ This extension is also available for DNN Api Endpoint and Sharp Scheduler.
 [105]: https://c254fe5a-a-f1e965b1-s-sites.googlegroups.com/a/dnnsharp.com/action-form-v2/FillePattern.bmp 
 [106]: https://c254fe5a-a-f1e965b1-s-sites.googlegroups.com/a/dnnsharp.com/action-form-v2/Field%20Separator.bmp
 [107]: https://c254fe5a-a-f1e965b1-s-sites.googlegroups.com/a/dnnsharp.com/action-form-v2/Handle%20Duplicates.bmp
+[108]: https://c254fe5a-a-f1e965b1-s-sites.googlegroups.com/a/dnnsharp.com/action-form-v2/Use%20Excel%20functions.bmp
