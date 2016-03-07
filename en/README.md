@@ -17,3 +17,5 @@ Integration requirements:
 * [InfoBox 01.00.09](http://www.dnnsharp.com/products/download?p=INFOB&v=01.00.09)
 
 General requirements: .NET4 and DNN 6.
+
+[91]: https://sites.google.com/a/dnnsharp.com/action-form-v2/_/rsrc/1426773527546/extensions/excel/both%20buttons.png
