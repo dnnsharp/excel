@@ -10,8 +10,7 @@ You can provide a pattern for the excel file. (Optional)
 
 **Field Separator** 
 
-Field, you can choose your the field separator from your text.
-Accepts expressions. (Optional, default value is ",")
+Field, you can choose your the field separator from your text. Accepts expressions. (Optional, default value is ",")
 
 **Handle duplicates**
 
