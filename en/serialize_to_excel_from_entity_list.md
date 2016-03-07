@@ -2,36 +2,64 @@
 
 **Action Grid** too offers the possibility to serialize to CSV, and now with the Excel addon you can serialize from entity list - basically some or all the entries of a grid of your choice. Similar to Serialize from Text, add a grid button with Action Serialize > Serialize from Entity List. You have the possibility to choose which entities to export to XLS, and even to include all fields at once by ticking one single button. 
 
-**Entity Name** - name of the enitity you want to use. (Optional, can be used with the Load Entity (Sql) action)
+**Entity Name** 
 
-**Fields** - provide a list of fields you want to serialize. (Optional)
+Name of the enitity you want to use. (Optional, can be used with the Load Entity (Sql) action)
 
-**Include all fields** - check this option if you want to serialize all fields.
+**Fields**
 
-**Remove Fields Names** - check this option if you do not want to serialize the names of the fields.
+Provide a list of fields you want to serialize. (Optional)
 
-**Use excel formulas** - with this option checked all formulas found will be applied. When a cell has a value that starts with = it will write it as an excel formula.
+**Include all fields**
+
+Check this option if you want to serialize all fields.
+
+**Remove Fields Names**
+
+Check this option if you do not want to serialize the names of the fields.
+
+**Use excel formulas**
+
+With this option checked all formulas found will be applied. When a cell has a value that starts with = it will write it as an excel formula.
 Example: =Sum(A1,A2)
 To escape the = add a ' in front of it.
 Example: '=Sum(A1,A2) this will be considered a normal string.
 
-**Criteria** - add a criteria that fielters the data. (Optional)
+**Criteria**
 
-**Pattern** - you can provide a pattern for the excel file. (Optional)
+Add a criteria that fielters the data. (Optional)
 
-**Handle duplicates** - you can choose how to handle when you already have a file with the same name. (Optional, default value is "Rename")
+**Pattern**
 
-**File password** - will add a password to the whole file, this way other users will not be able to see the content of the file. (Optional)
+You can provide a pattern for the excel file. (Optional)
 
-**Worksheet password** - will add a password to the excel worksheet, now users are able to see the content of the file but are not able to edit it. (Optional)
+**Handle duplicates**
 
-**Folder** - select the destination where the file will be stored.
+You can choose how to handle when you already have a file with the same name. (Optional, default value is "Rename")
 
-**Store Absolute URL** - provide a token name where to Store Absolute URL. (Optional)
+**File password**
 
-**Store Relative URL** - provide a token name where to Store Relative URL. (Optional)
+Will add a password to the whole file, this way other users will not be able to see the content of the file. (Optional)
 
-**Store Physical Path** - provide a token name where to Store Physical Path. (Optional)
+**Worksheet password**
+
+Will add a password to the excel worksheet, now users are able to see the content of the file but are not able to edit it. (Optional)
+
+**Folder**
+
+Select the destination where the file will be stored.
+
+**Store Absolute URL**
+
+Provide a token name where to Store Absolute URL. (Optional)
+
+**Store Relative URL**
+
+Provide a token name where to Store Relative URL. (Optional)
+
+**Store Physical Path**
+
+Provide a token name where to Store Physical Path. (Optional)
 
 This extension is also available for DNN Api Endpoint and Sharp Scheduler. 
 
