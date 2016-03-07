@@ -4,6 +4,8 @@ In **Action Form**, you have the ability to save your data to reports and downlo
 
 However, there is also the option to export the inputted data to an XLS file.  Setting it up is pretty simple - on an existing or new button add as action Serialize > Serialize to Excel from Text. Inside the handler you have the following settings:
 
+In the Pattern field, you can provide a pattern for the excel file. (Optional)
+
 
 
 In the Text field, you can define what text will be serialized. For example, the [FirstName] and [LastName] fields. Keep in mind that these fields must exist within the form and you need to add their ID, not field name.  
@@ -45,3 +47,4 @@ This extension is also available for DNN Api Endpoint and Sharp Scheduler.
 [102]: /a/dnnsharp.com/action-form-v2/system/app/pages/reportAbuse
 [103]: javascript:;
 [104]: http://sites.google.com
+[105]: https://c254fe5a-a-f1e965b1-s-sites.googlegroups.com/a/dnnsharp.com/action-form-v2/FillePattern.bmp 
