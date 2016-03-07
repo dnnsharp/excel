@@ -4,12 +4,18 @@ In **Action Form**, you have the ability to save your data to reports and downlo
 
 However, there is also the option to export the inputted data to an XLS file.  Setting it up is pretty simple - on an existing or new button add as action Serialize > Serialize to Excel from Text. Inside the handler you have the following settings:
 
-In the **Pattern** field, you can provide a pattern for the excel file. (Optional)
+**Pattern**
 
-In the **Field Separator** field, you can choose your the field separator from your text.
+You can provide a pattern for the excel file. (Optional)
+
+**Field Separator** 
+
+Field, you can choose your the field separator from your text.
 Accepts expressions. (Optional, default value is ",")
 
-In the **Handle duplicates** field, you can choose how to handle when you already have a file with the same name. (Optional, default value is "Rename")
+**Handle duplicates**
+
+You can choose how to handle when you already have a file with the same name. (Optional, default value is "Rename")
 
 In the **Text field**, you can define what text will be serialized.For example, the [FirstName] and [LastName] fields. Keep in mind that these fields must exist within the form and you need to add their ID, not field name.  
 
