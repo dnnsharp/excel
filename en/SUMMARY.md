@@ -5,4 +5,5 @@
 * [Installation](installation.md)
 * [FAQs](faqs.md)
 * About
+* Serialize to Excel from Text
 
