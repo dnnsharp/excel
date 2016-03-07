@@ -10,9 +10,10 @@
 
 **Remove Fields Names** - check this option if you do not want to serialize the names of the fields.
 
-**Use excel formulas** - with this option checked all formulas found will be applied. When a cell has a value that starts with = it will write it as a excel formula.
+**Use excel formulas** - with this option checked all formulas found will be applied. When a cell has a value that starts with = it will write it as an excel formula.
 Example: =Sum(A1,A2)
 To escape the = add a ' in front of it.
+Example: '=Sum(A1,A2) this will be considered a normal string.
 
 **Criteria** - add a criteria that fielters the data. (Optional)
 
