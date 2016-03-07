@@ -20,7 +20,9 @@
 
 **File password** - will add a password to the whole file, this way other users will not be able to see the content of the file.
 
-**Worksheet password** -will add a password to the excel worksheet, now users are able to see the content of the file but are not able to edit it.
+**Worksheet password** - will add a password to the excel worksheet, now users are able to see the content of the file but are not able to edit it.
+
+**Folder** - select the destination where the file will be stored.
 
 This extension is also available for DNN Api Endpoint and Sharp Scheduler. 
 
