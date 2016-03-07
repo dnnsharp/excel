@@ -4,50 +4,21 @@ In **Action Form**, you have the ability to save your data to reports and downlo
 
 However, there is also the option to export the inputted data to an XLS file.  Setting it up is pretty simple - on an existing or new button add as action Serialize > Serialize to Excel from Text. Inside the handler you have the following settings:
 
-In the Pattern field, you can provide a pattern for the excel file. (Optional)
-![][105]
+In the **Pattern** field, you can provide a pattern for the excel file. (Optional)
 
-In the Field Separator field, you can choose your the field separator from your text.
+In the **Field Separator** field, you can choose your the field separator from your text.
 Accepts expressions. (Optional, default value is ",")
-![][106]
 
-In the Handle duplicates field, you can how to handle when you already have a file with the same name. (Optional, default value is "Rename")
-![][107]
+In the **Handle duplicates** field, you can how to handle when you already have a file with the same name. (Optional, default value is "Rename")
 
-In the Text field, you can define what text will be serialized.For example, the [FirstName] and [LastName] fields. Keep in mind that these fields must exist within the form and you need to add their ID, not field name.  
-![][92] 
+In the **Text field**, you can define what text will be serialized.For example, the [FirstName] and [LastName] fields. Keep in mind that these fields must exist within the form and you need to add their ID, not field name.  
 
-You also have the option to use excel formulas. With this option checked all formulas found will be applied.
-![][108]
+You also have the option to **Use excel formulas**. With this option checked all formulas found will be applied.
 
-With the password fields you can add passwords to your excel file. The file password field will add a password to the whole file, this way other users will not be able to see the content of the file. While with the Worksheet Password field you will add a password to the excel worksheet, now users are able to see the content of the file but are not able to edit it.
-![][109]
+With the password fields you can add passwords to your excel file. The **File password** field will add a password to the whole file, this way other users will not be able to see the content of the file. While with the **Worksheet Password** field you will add a password to the excel worksheet, now users are able to see the content of the file but are not able to edit it.
 
 Then, you must select the folder to which the file is uploaded. 
-![][93] 
 
 Lastly, fill in your form and hit Submit. Check your destination folder and you'll see the newly-created XLS file there. Open it and it will look like this: 
-![][94] 
 
 {% youtube %} https://www.youtube.com/watch?v=vAAjBXPbdIw {% endyoutube %}
-
-
-[91]: https://sites.google.com/a/dnnsharp.com/action-form-v2/_/rsrc/1426773527546/extensions/excel/both%20buttons.png
-[92]: https://sites.google.com/a/dnnsharp.com/action-form-v2/_/rsrc/1426773670625/extensions/excel/serialize%20to%20excel.png
-[93]: https://sites.google.com/a/dnnsharp.com/action-form-v2/_/rsrc/1426773712952/extensions/excel/excel%20folder.png
-[94]: https://sites.google.com/a/dnnsharp.com/action-form-v2/_/rsrc/1426773772222/extensions/excel/text%20excel.png
-[95]: https://sites.google.com/a/dnnsharp.com/action-form-v2/_/rsrc/1426773826540/extensions/excel/serialize%20entity.png
-[96]: https://sites.google.com/a/dnnsharp.com/action-form-v2/_/rsrc/1426774091559/extensions/excel/grid.png
-[97]: http://www.dnnsharp.com/dnn/modules/action-form-builder/whats-new
-[98]: http://www.dnnsharp.com/Support#opturl=%2Faction-form
-[99]: http://www.dnnsharp.com/support/request-a-video-tutorial
-[100]: https://www.google.com/a/UniversalLogin?service=jotspot&continue=https://sites.google.com/a/dnnsharp.com/action-form-v2/extensions/excel
-[101]: /a/dnnsharp.com/action-form-v2/system/app/pages/recentChanges
-[102]: /a/dnnsharp.com/action-form-v2/system/app/pages/reportAbuse
-[103]: javascript:;
-[104]: http://sites.google.com
-[105]: https://c254fe5a-a-f1e965b1-s-sites.googlegroups.com/a/dnnsharp.com/action-form-v2/FillePattern.bmp 
-[106]: https://c254fe5a-a-f1e965b1-s-sites.googlegroups.com/a/dnnsharp.com/action-form-v2/Field%20Separator.bmp
-[107]: https://c254fe5a-a-f1e965b1-s-sites.googlegroups.com/a/dnnsharp.com/action-form-v2/Handle%20Duplicates.bmp
-[108]: https://c254fe5a-a-f1e965b1-s-sites.googlegroups.com/a/dnnsharp.com/action-form-v2/Use%20Excel%20functions.bmp
-[109]: https://c254fe5a-a-f1e965b1-s-sites.googlegroups.com/a/dnnsharp.com/action-form-v2/Excel%20Passwords.bmp
