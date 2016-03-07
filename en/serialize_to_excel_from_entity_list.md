@@ -18,9 +18,9 @@
 
 **Handle duplicates** - you can choose how to handle when you already have a file with the same name. (Optional, default value is "Rename")
 
-**File password** - will add a password to the whole file, this way other users will not be able to see the content of the file.
+**File password** - will add a password to the whole file, this way other users will not be able to see the content of the file. (Optional)
 
-**Worksheet password** - will add a password to the excel worksheet, now users are able to see the content of the file but are not able to edit it.
+**Worksheet password** - will add a password to the excel worksheet, now users are able to see the content of the file but are not able to edit it. (Optional)
 
 **Folder** - select the destination where the file will be stored.
 
