@@ -6,7 +6,6 @@ This extension provides the ability to create Excel files using DnnSharp modules
 
 The Excel addon allows you to export your data in Excel format. It comes in 2 flavors, namely Serialize from Text and Serialize from entity list, respectively. 
 
-
 To add an Excel action simply select Serialization -> Serialize to Excel... from any button action list.
 
 ![](AddAction.bmp)
