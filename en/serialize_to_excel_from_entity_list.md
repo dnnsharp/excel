@@ -18,6 +18,10 @@
 
 **Handle duplicates** - you can choose how to handle when you already have a file with the same name. (Optional, default value is "Rename")
 
+**File password** -
+
+**Worksheet password** -
+
 This extension is also available for DNN Api Endpoint and Sharp Scheduler. 
 
 {% youtube %} https://www.youtube.com/watch?v=vAAjBXPbdIw {% endyoutube %}
