@@ -16,7 +16,7 @@
 
 **Pattern** - you can provide a pattern for the excel file. (Optional)
 
-**Handle duplicates** - 
+**Handle duplicates** - you can choose how to handle when you already have a file with the same name. (Optional, default value is "Rename")
 
 This extension is also available for DNN Api Endpoint and Sharp Scheduler. 
 
