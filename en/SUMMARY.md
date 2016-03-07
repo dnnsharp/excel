@@ -3,5 +3,5 @@
 * [Excel Integration](README.md)
 * [Resources](resources.md)
 * [Installation](installation.md)
-* FAQs
+* [FAQs](faqs.md)
 
