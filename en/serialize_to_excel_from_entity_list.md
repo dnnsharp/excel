@@ -10,7 +10,11 @@
 
 **Remove Fields Names** - check this option if you do not want to serialize the names of the fields.
 
-**Use excel formulas** - 
+**Use excel formulas** - with this option checked all formulas found will be applied.
+
+**Criteria** - add a criteria that fielters the data. (Optional)
+
+**Pattern** - 
 
 This extension is also available for DNN Api Endpoint and Sharp Scheduler. 
 
