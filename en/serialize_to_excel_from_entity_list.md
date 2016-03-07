@@ -16,6 +16,8 @@
 
 **Pattern** - you can provide a pattern for the excel file. (Optional)
 
+**Handle duplicates** - 
+
 This extension is also available for DNN Api Endpoint and Sharp Scheduler. 
 
 {% youtube %} https://www.youtube.com/watch?v=vAAjBXPbdIw {% endyoutube %}
