@@ -20,7 +20,7 @@ In the Text field, you can define what text will be serialized.For example, the 
 You also have the option to use excel formulas. With this option checked all formulas found will be applied.
 ![][108]
 
-With the password fields you can add passwords to your excel file.
+With the password fields you can add passwords to your excel file. The file password field will add a password to the whole file, this way other users will not be able to see the content of the file. While with the Worksheet Password field you will add a password to the excel worksheet, now users are able to see the content of the file but are not able to edit it.
 ![][109]
 
 Then, you must select the folder to which the file is uploaded. 
