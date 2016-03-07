@@ -24,6 +24,12 @@
 
 **Folder** - select the destination where the file will be stored.
 
+**Store Absolute URL** - provide a token name where to Store Absolute URL. (Optional)
+
+**Store Relative URL** - provide a token name where to Store Relative URL. (Optional)
+
+**Store Physical Path** - provide a token name where to Store Physical Path. (Optional)
+
 This extension is also available for DNN Api Endpoint and Sharp Scheduler. 
 
 {% youtube %} https://www.youtube.com/watch?v=vAAjBXPbdIw {% endyoutube %}
