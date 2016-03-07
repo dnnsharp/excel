@@ -4,4 +4,5 @@
 * [Resources](resources.md)
 * [Installation](installation.md)
 * [FAQs](faqs.md)
+* About
 
