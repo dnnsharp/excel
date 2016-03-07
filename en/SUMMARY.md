@@ -1,5 +1,5 @@
 # Summary
 
 * [Excel Integration](README.md)
-* Resources
+* [Resources](resources.md)
 
