@@ -16,7 +16,9 @@ Field, you can choose your the field separator from your text. Accepts expressio
 
 You can choose how to handle when you already have a file with the same name. (Optional, default value is "Rename")
 
-In the **Text field**, you can define what text will be serialized.For example, the [FirstName] and [LastName] fields. Keep in mind that these fields must exist within the form and you need to add their ID, not field name.  
+**Text field**
+
+Here you can define what text will be serialized.For example, the [FirstName] and [LastName] fields. Keep in mind that these fields must exist within the form and you need to add their ID, not field name.  
 
 You also have the option to **Use excel formulas**. With this option checked all formulas found will be applied.
 
