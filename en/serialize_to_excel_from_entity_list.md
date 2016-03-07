@@ -13,7 +13,7 @@ This extension is also available for DNN Api Endpoint and Sharp Scheduler.
 {% youtube %} https://www.youtube.com/watch?v=vAAjBXPbdIw {% endyoutube %}
 
 
-[91]: https://sites.google.com/a/dnnsharp.com/action-form-v2/_/rsrc/1426773527546/extensions/excel/both%20buttons.png
+[91]: https://c254fe5a-a-f1e965b1-s-sites.googlegroups.com/a/dnnsharp.com/action-form-v2/Excel from entity list.bmp
 [92]: https://sites.google.com/a/dnnsharp.com/action-form-v2/_/rsrc/1426773670625/extensions/excel/serialize%20to%20excel.png
 [93]: https://sites.google.com/a/dnnsharp.com/action-form-v2/_/rsrc/1426773712952/extensions/excel/excel%20folder.png
 [94]: https://sites.google.com/a/dnnsharp.com/action-form-v2/_/rsrc/1426773772222/extensions/excel/text%20excel.png
