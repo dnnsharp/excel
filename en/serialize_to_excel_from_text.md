@@ -1,6 +1,12 @@
 # Serialize to Excel from Text
 
-In **Action Form**, you have the ability to save your data to reports and download it as CSV file. However, there is also the option to export the inputted data to an XLS file.  Setting it up is pretty simple - on an existing or new button add as action Serialize > Serialize to Excel from Text. Inside the handler, in the Text field, you can define what text will be serialized. For example, the [FirstName] and [LastName] fields. Keep in mind that these fields must exist within the form and you need to add their ID, not field name.  
+In **Action Form**, you have the ability to save your data to reports and download it as CSV file. 
+
+However, there is also the option to export the inputted data to an XLS file.  Setting it up is pretty simple - on an existing or new button add as action Serialize > Serialize to Excel from Text. Inside the handler you have the following settings:
+
+
+
+In the Text field, you can define what text will be serialized. For example, the [FirstName] and [LastName] fields. Keep in mind that these fields must exist within the form and you need to add their ID, not field name.  
 
 ![][92] 
 
