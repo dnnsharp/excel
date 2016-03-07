@@ -7,10 +7,14 @@ However, there is also the option to export the inputted data to an XLS file.  S
 In the Pattern field, you can provide a pattern for the excel file. (Optional)
 ![][105]
 
-In the Field Separator field, you can choose your the field separator from your text. (Optional, default value is ",")
+In the Field Separator field, you can choose your the field separator from your text.
+Accepts expressions. (Optional, default value is ",")
 ![][106]
 
-In the me] and [LastName] fields. Keep in mind that these fields must exist within the form and you need to add their ID, not field name.  
+In the Handle duplicates field, you can how to handle when you already have a file with the same name. (Optional, default value is "Rename")
+![][106]
+
+For example, the [FirstName] and [LastName] fields. Keep in mind that these fields must exist within the form and you need to add their ID, not field name.  
 ![][92] 
 
 Then, you must select the folder to which the file is uploaded. 
