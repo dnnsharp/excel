@@ -1,1 +1,8 @@
-{"plugins" : ["youtube"]}
+{
+  "variables": {
+    "code": "EXGEN",
+    "name": "Excel Generator",
+    "productPage": "http://www.dnnsharp.com/dnn/integrations/excel-generator"
+  },
+  "plugins" : ["youtube"]
+}
