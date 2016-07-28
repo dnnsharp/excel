@@ -1,15 +1,10 @@
 # Load Entities (CSV)
 
-The action offers the posibility to load data into an entity list from a CSV text. Similar to Load Entities (SQL), add a button with Action Entities > Load Entities (Csv). You have the possibility to choose from which file to import data, and even to include all fields at once by ticking one single button.
+The action offers the posibility to load data into an entity list from a CSV text. Similar to Load Entities (SQL), add a button with Action Entities > Load Entities (Csv). You have the possibility to include all fields at once by ticking one single button.
 
-**File Path**
+**CSV**
 
-Specify the path to the excel file.
-The file path can be any of the following:
-- RelativeUrl: Portals/0/myfile.xls
-- AbsoluteUrl: http://sitealias/Portals/0/myfile.csv
-- LinkClickUrl: /LinkClick.aspx?fileticket=19ZSKtRQ1lQ%3d
-- PhysicalPath: pathToDnnInstance\Portals\0\myfile.csv
+The CSV that will be converted into an entity list.
 
 **Field Separator**
 
