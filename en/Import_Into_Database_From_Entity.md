@@ -14,14 +14,21 @@ Select the table to import data into.
 
 Check this option if you want to try and insert all properties from the entity list into the database table.
 
-**Use first row as column names**
+**Properties**
 
-Check this option if you want to use the first row of the file as the property names of the new entity. (Optional)
+Select the specific columns of the excel file that you wish to retrieve. This field is ignored if Include All Fields is checked.
 
-If this option is not checked the entity will assign the names: Field + Index.
+**Merge Existing Values**
 
+Check this option if you want to try and update all values from the entity list that have a corresponding row in the database table. 
 
-Ex: Field0, Field1, etc ...
+This option can increase the execution time for large amounts of data.
+
+**Delete Non-Existing Values**
+
+Check this option if you want to try and delete all values from the database table that do not have a corresponding item in the entity list.
+
+This option can increase the execution time for large amounts of data.
 
 **On Error**
 
