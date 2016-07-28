@@ -1,6 +1,6 @@
 # Load Entities (CSV File)
 
-The action offers the posibility to load data into an entity list from a CSV file. Similar to Load Entities (SQL), add a button with Action Entities > Load Entities (Excel File). You have the possibility to choose from which file to import data, and even to include all fields at once by ticking one single button.
+The action offers the posibility to load data into an entity list from a CSV file. Similar to Load Entities (SQL), add a button with Action Entities > Load Entities (CsvFile). You have the possibility to choose from which file to import data, and even to include all fields at once by ticking one single button.
 
 **File Path**
 
