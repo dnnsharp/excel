@@ -28,10 +28,6 @@ If this option is not checked the entity will assign the names: Field + Index.
 
 Ex: Field0, Field1, etc ...
 
-**Remove Fields Names**
-
-Check this option if you do not want to serialize the names of the fields.
-
 **Properties**
 
 Select the specific columns of the excel file that you wish to retrieve. This field is ignored if Include All Fields is checked.
