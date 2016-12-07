@@ -24,6 +24,12 @@ Check this option if you want to try and update all values from the entity list 
 
 This option can increase the execution time for large amounts of data.
 
+**Only Update Values**
+
+Check this option if you do not want to insert new data rows into the table, only update. This option requires Merge Existing Values to be checked.
+
+This option can increase the execution time for large amounts of data.
+
 **Delete Non-Existing Values**
 
 Check this option if you want to try and delete all values from the database table that do not have a corresponding item in the entity list.
