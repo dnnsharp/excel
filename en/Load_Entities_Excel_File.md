@@ -32,6 +32,18 @@ Ex: Field0, Field1, etc ...
 
 Select the specific columns of the excel file that you wish to retrieve. This field is ignored if Include All Fields is checked.
 
+**Sheet Name**
+
+Name of the sheet to use.
+
+**Start Row**
+
+Specify the row from where to start reading. If left empty it will get the first row.
+
+**End Row**
+
+Specify the row from where to end the reading. If left empty it will get the last row.
+
 **On Error**
 
 Define a list of actions to run on error. Otherwise, an error message is returned which will contain the underlying error if debug mode is on.
