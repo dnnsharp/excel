@@ -10,6 +10,10 @@ Leave empty to conect to the DNN database. Connect to a different database by pr
 
 Select the table to import data into.
 
+**Entity Name**
+
+Name ths entity so you can reference it later by name.
+
 **InsertAllValues**
 
 Check this option if you want to try and insert all properties from the entity list into the database table.
